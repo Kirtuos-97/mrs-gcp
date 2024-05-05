@@ -6,4 +6,5 @@ import config as cnf
 #into an array of structures
 #---------------------------------------
 def convertArrayOfStruct(strData, struct):
+    pass
     

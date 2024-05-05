@@ -32,19 +32,6 @@ movie_structures={
                     "nullable":True,
                     "metadata":{}
                 }
-                # },
-                # {
-                #     "name":"poster_path",
-                #     "type":"string",
-                #     "nullable":True,
-                #     "metadata":{}
-                # },
-                # {
-                #     "name":"backdrop_path",
-                #     "type":"string",
-                #     "nullable":True,
-                #     "metadata":{}
-                # }
             ]
         }
     )
